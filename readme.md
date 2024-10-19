@@ -1,4 +1,4 @@
-# **Java Machine Test - Nimap Task**
+# **Java Machine Test**
 
 ## **Project Overview**
 This project is a Spring Boot-based REST API that manages **Categories** and **Products**. The APIs include **CRUD operations** for both entities, along with **pagination** and a **one-to-many relationship** between Categories and Products. The backend is built with **MySQL** as the database and follows annotation-based configuration using **JPA & Hibernate**.
